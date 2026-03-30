@@ -19,14 +19,15 @@ the company should focus their efforts on.
 
 Each mutation experiment file will contain the following data in a tab-separated format: 
 
-Gene name 
-Wild-type gene DNA sequence including promoter and coding region. 
-Mutant DNA gene sequence including promoter and coding region. 
-Normalised cell viability – expressed as a percentage for the original and mutant gene in 3 replicates. 
-Normalised mRNA expression level measured by qRT-PCR for the original and mutant gene in 3 replicates. 
+Gene name,
+Wild-type gene DNA sequence including promoter and coding region,
+Mutant DNA gene sequence including promoter and coding region,
+Normalised cell viability – expressed as a percentage for the original and mutant gene in 3 replicates, 
+Normalised mRNA expression level measured by qRT-PCR for the original and mutant gene in 3 replicates,
 Normalised protein expression level measured by a protein array for the original and mutant gene in 3 replicates. 
 
 The analysis will complete the following tasks: 
+
 Aggregate data in all files into a single data object in Python 
 
 Using the data provided, identify the top 5 genes and mutations 
