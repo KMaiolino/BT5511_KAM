@@ -39,6 +39,6 @@ promoter and coding sequences, as well as how the protein and mRNA expression
 levels differ between wild-type and mutants. 
 
 Plot the data to support your choice of the 5 genes. 
-You can include up to 3 individual figures (a multi-panel graph counts as 1 figure), o
-ne of which should match the example graph provided 
+You can include up to 3 individual figures (a multi-panel graph counts as 1 figure), 
+one of which should match the example graph provided 
 (note the exact data points and variables need not be the same). 
