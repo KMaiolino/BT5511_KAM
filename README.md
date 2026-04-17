@@ -1,20 +1,6 @@
 This is an assignment for BT5511 Advanced Biotechnology with Computation
 
-You work for a small biotech start-up company 
-that is searching for mutant genes that can help them 
-to develop new therapeutics for their infectious 
-disease target portfolio. 
-
-They also have a side-interest in bioremediation, 
-and so use a range of microbes and bioreactors 
-to both develop and test drugs as well as mutant microbes. 
-
-You are a bioinformatics consultant and have been asked 
-by the company to help them analyse their latest mutation 
-screening data to prioritise targets for them to focus on 
-for experimental validation. 
-
-Your task is to analyse the 25 data files, 
+The task is to analyse the 25 data files, 
 summarise the data contained therein, and present them 
 in a report that will illustrate which genes and mutations 
 the company should focus their efforts on. 
